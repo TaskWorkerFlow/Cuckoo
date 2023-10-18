@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+.idea/*
+.idea/*.iml
+.idea/*.xml
+logs/
+package-lock.json
